@@ -1,0 +1,2 @@
+model_checkpoint_path: "poetry.module-101"
+all_model_checkpoint_paths: "poetry.module-101"
