@@ -1,0 +1,6 @@
+baseclass.py 定义了一个基类
+poetry 和 english 继承于基类
+lstm_rnn_model 定义了模型类
+lstm_rnn_train 启动训练模型
+get_acrostic_poetry 写出藏头诗
+get_poetry 随机写诗
